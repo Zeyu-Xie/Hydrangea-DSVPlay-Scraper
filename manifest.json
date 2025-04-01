@@ -1,8 +1,8 @@
 {
     "manifest_version": 3,
     "name": "DSVPlay Scraper",
-    "version": "0.0.1",
-    "description": "A simple chrome extension for downloading videos from play.dsv.su.se.",
+    "version": "1.0.0",
+    "description": "A handy chrome extension for downloading lecture recording videos from play.dsv.su.se.",
     "permissions": [
         "activeTab",
         "scripting"
