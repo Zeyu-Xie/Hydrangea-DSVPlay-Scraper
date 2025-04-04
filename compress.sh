@@ -1,6 +1,6 @@
 #!/bin/zsh
 
-zip "./DSVPlayer Scraper" \
+zip "./DSVPlay Scraper" \
     background.js \
     content.js \
     icon16.png \
