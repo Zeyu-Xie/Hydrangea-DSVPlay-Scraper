@@ -4,8 +4,7 @@
     "version": "1.0.0",
     "description": "A handy chrome extension for downloading lecture recording videos from play.dsv.su.se.",
     "permissions": [
-        "activeTab",
-        "scripting"
+        "activeTab"
     ],
     "action": {
         "default_popup": "popup.html",
